@@ -27,7 +27,6 @@ async function solvePuzzle() {
 
     const canvas = document.querySelector('#canvas');
     const emojiDivs = canvas.querySelectorAll('div');
-    console.log(emojiDivs.length);
 
     let straightHearts = 0;
     let straightMinds = 0;
